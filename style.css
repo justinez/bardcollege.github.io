@@ -4,6 +4,9 @@ body {
     font-size: 150%;
     line-height: 1.4;
 }
+blockquote {
+    color: green;
+}
 
 h1{
     margin-top:0px;
